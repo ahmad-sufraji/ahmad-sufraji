@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**ahmad-sufraji/ahmad-sufraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Ahmad Sufraji | Junior SOC Analyst
 
-Here are some ideas to get you started:
+### Cybersecurity | Security Operations | Blue Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior SOC Analyst with hands-on experience in Splunk Enterprise Security, security monitoring, alert triage, threat detection, and incident investigation.
+
+Currently focused on strengthening my skills in SOC operations, SIEM analysis, threat intelligence, and incident response.
+
+---
+
+## 🔍 Technical Skills
+
+| Category | Technologies |
+|---|---|
+| SIEM | Splunk Enterprise Security |
+| Log Analysis | SPL, Windows Event Logs |
+| SOC Operations | Alert Triage, Incident Response |
+| Threat Intelligence | IOC Investigation, MITRE ATT&CK |
+| Security Tools | Nmap, Metasploit, Burp Suite |
+| Networking | TCP/IP, Cisco Packet Tracer |
+| Operating Systems | Linux |
+| Scripting | Python, JavaScript |
+
+## 🚀 Featured Project
+
+### AI Cyber Defense Platform – Intelligent Mini SIEM
+
+- Security log and network traffic analysis.
+- Machine Learning-based threat detection.
+- Suspicious behavior identification.
+- Interactive security monitoring dashboard.
+- Cyberattack simulation and alert evaluation.
+
+## 🎓 Education & Certifications
+
+- 🎓 BSc in Cybersecurity – Zarqa University (2026)
+- CompTIA Security+ – In Progress
+- Cisco CCNA – In Progress
+- TryHackMe SOC Level 1 – 75% Completed
+
+## 📊 Professional Focus
+
+- Security Operations Center (SOC)
+- SIEM Monitoring & Analysis
+- Threat Detection & Investigation
+- Incident Response
+- Blue Team Operations
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-sufraji-4652a5343/)
+- 📄 [My Resume (CV)](https://github.com/ahmad-sufraji/CV/blob/main/Ahmad%20Sufraji_SOC%20Analyst.pdf)
+
+---
+
+⭐ Always learning. Always improving. Always defending.
