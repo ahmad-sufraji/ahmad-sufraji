@@ -1,4 +1,3 @@
-
 # 🛡️ Ahmad Sufraji | Junior SOC Analyst
 
 ### Cybersecurity | Security Operations | Blue Team
@@ -22,15 +21,30 @@ Currently focused on strengthening my skills in SOC operations, SIEM analysis, t
 | Operating Systems | Linux |
 | Scripting | Python, JavaScript |
 
-## 🚀 Featured Project
+---
 
-### AI Cyber Defense Platform – Intelligent Mini SIEM
+## 🚀 Featured Projects & Hands-on Labs
+
+### 1. AI Cyber Defense Platform – Intelligent Mini SIEM
 
 - Security log and network traffic analysis.
 - Machine Learning-based threat detection.
 - Suspicious behavior identification.
 - Interactive security monitoring dashboard.
 - Cyberattack simulation and alert evaluation.
+
+### 2. Splunk – Web Attack Detection & Investigation
+
+**Tools:** Splunk Enterprise Security, SPL, MITRE ATT&CK
+
+- Developed SPL queries for HTTP attack detection and log analysis.
+- Investigated suspicious web request patterns.
+- Practiced security alert triage and incident investigation.
+- Documented investigation findings and mapped observed behavior to MITRE ATT&CK.
+
+🔗 [View Project on GitHub](https://github.com/ahmad-sufraji/splunk-soc-labs/tree/main/web-attack-investigation)
+
+---
 
 ## 🎓 Education & Certifications
 
@@ -39,6 +53,8 @@ Currently focused on strengthening my skills in SOC operations, SIEM analysis, t
 - Cisco CCNA – In Progress
 - TryHackMe SOC Level 1 – 75% Completed
 
+---
+
 ## 📊 Professional Focus
 
 - Security Operations Center (SOC)
@@ -46,6 +62,8 @@ Currently focused on strengthening my skills in SOC operations, SIEM analysis, t
 - Threat Detection & Investigation
 - Incident Response
 - Blue Team Operations
+
+---
 
 ## 📫 Connect With Me
 
